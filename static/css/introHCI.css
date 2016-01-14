@@ -21,7 +21,7 @@
 
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
-body {
+body {/*
      width: 100%;
      height: 100%;
      background: url("../images/IMGP5015.jpg") no-repeat top center fixed;
@@ -29,7 +29,7 @@ body {
      -webkit-background-size: cover;
      -moz-background-size: cover;
      background-size: cover;
-     -o-background-size: cover;
+     -o-background-size: cover;*/
 }
 .thumbnail:hover { 
      opacity: 0.2;
